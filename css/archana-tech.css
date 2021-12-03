@@ -1,0 +1,60 @@
+/***** BASE STYLES *****/
+
+body {
+    background-color: #e5ecff;
+    color:#000000;
+    font-family:'rubik', sans-serif;
+    margin:35px;
+    max-width:1200px;
+    overflow:auto;
+    padding: 20 20 0 20;
+}
+
+/***** GRID *****/ 
+
+header, h1 {
+    color:#990000;
+    font-family: 'merriweather', serif;
+    font-size: 32px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+h1 span {
+    font-family: 'courgette', cursive;
+}
+
+header a {
+    color:#0033cc;
+    float:left;
+    font-size: 18px; 
+}
+
+h4 {
+    color:#808000;
+    font-family:'merriweather',serif;
+    font-size:20px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 16px;
+    line-height:20px;
+    text-align:justify;
+}
+
+footer {
+    color:#990000;
+    font-size:18px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+footer p{
+    text-align: center;
+}
+
+footer span {
+    font-family:'courgette',cursive;
+}
